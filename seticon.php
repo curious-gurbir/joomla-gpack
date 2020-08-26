@@ -130,7 +130,7 @@
 
 				$target = '../templates/'.$temp.'/'.$newname;
 				move_uploaded_file( $_FILES['userFile']['tmp_name'], $target);
-				echo "<script>alert('Icon successfully changed!');</script>";
+				echo "<script>alert('Icon successfully changed!');window.location.replace('index.php');</script>";
 			}
 		}
 	?>
