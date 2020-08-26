@@ -1,5 +1,5 @@
 # Joomla-GPACK
 GPACK for Joomla created by Gurbir Dhaliwal
 
-## Updates
-- **Version release :** joomla-gpack_1.0 (Template favicon changer)
+## Versions
+- Joomla-GPACK v1.0 (Template favicon changer)
